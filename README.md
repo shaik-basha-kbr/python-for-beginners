@@ -17,6 +17,25 @@
 - Floor Division
 
 ## 04. Conditional statements and loops
+
+- Conditional statements 
+     - *if* Statement
+     - *if...else* Statement
+     - *if...elif...else* Statement
+     - Nested *if* Statements
+     - Ternary Conditional Expression
+
+- loops
+
+     - *for* Loops
+     - *while* Loops
+
+- Loop Control Statements
+     -  *break*
+     -  *continue*   
+- Nested Loops
+
+
 ## 05. Functions and modules
 ## 06. Strings and string manipulation
 ## 07. Lists and list manipulation
