@@ -11,6 +11,11 @@
 - Data Types
 - Type Conversion
 ## 03. Basic operations and arithmetic
+- Basic Mathematical Operations
+- Exponentiation
+- Modulus
+- Floor Division
+
 ## 04. Conditional statements and loops
 ## 05. Functions and modules
 ## 06. Strings and string manipulation
